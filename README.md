@@ -4,9 +4,6 @@ Datapack/json creates a recipe for a totem craft.
 
 Designed to make the game easier to play.
 
-Screenshot of recipe: 
-
-
 <details>
   <summary>Screenshot of recipe: </summary>
 

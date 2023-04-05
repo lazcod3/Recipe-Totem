@@ -7,8 +7,7 @@ Designed to make the game easier to play.
 <details>
   <summary>Screenshot of recipe: </summary>
 
-  **
-  https://imgur.com/SomRPT6
-  **
+ **https://imgur.com/SomRPT6**
+  
   
 </details>
